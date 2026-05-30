@@ -173,7 +173,7 @@ Assemble everything into the final video.
 2. Arrange clips to match scene breakdown order
 3. Import voiceover — lay on audio track
 4. Sync clips to narration (clip transitions should follow narration beats)
-5. Import music — lay under voiceover, lower volume (~20–30% of voiceover level)
+5. Import music — lay under voiceover, set volume to 40 (CapCut iOS 1–100 scale)
 6. Add titles:
    - Opening title card: episode name + "Distant Empires"
    - Optional: location/date overlays per scene
@@ -226,7 +226,7 @@ Use this during production — don't rely on memory after the fact.
 | Voiceover | ElevenLabs voice name + ID + settings | [ ] |
 | Music | Suno prompt + style tags + track selected | [ ] |
 | Edit | Title card text + font | [ ] |
-| Edit | Music volume level | [ ] |
+| Edit | Music volume level | 40 (CapCut iOS 1–100 scale) |
 | Edit | Export settings | [ ] |
 | Publish | Title, description, tags | [ ] |
 
